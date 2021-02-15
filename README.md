@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @verIdyia
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python
 
 <!---
